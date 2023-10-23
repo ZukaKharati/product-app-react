@@ -3,7 +3,7 @@ export default function Navbar() {
     <nav className="navbar mb-6" role="navigation" aria-label="main navigation">
       <div className="navbar-brand">
         <a className="navbar-item" href="https://bulma.io">
-          <div className="is-title is-size-4 has-text-weight-bold	">Products</div>
+          <div className="is-title is-size-4 has-text-weight-bold	">Productario</div>
         </a>
 
         <a
